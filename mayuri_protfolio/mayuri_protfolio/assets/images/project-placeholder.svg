@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="bg3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#efe5d4"/>
+      <stop offset="1" stop-color="#e6dac3"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="16" fill="url(#bg3)"/>
+  <rect x="24" y="24" width="592" height="312" rx="12" fill="#ffffffaa" stroke="#b07f43"/>
+  <rect x="40" y="60" width="560" height="200" rx="10" fill="#f3eadb" stroke="#d2a15c"/>
+  <rect x="64" y="280" width="320" height="14" rx="7" fill="#b07f43"/>
+  <rect x="392" y="280" width="120" height="14" rx="7" fill="#c98c48"/>
+  <text x="320" y="40" text-anchor="middle" font-family="Inter, Arial" font-size="18" fill="#6b625a">Project Preview</text>
+</svg>
+
+
